@@ -1,0 +1,25 @@
+.card {
+	width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: #ccc 5px 5px 5px;
+}
+
+.info {
+	padding: 0 10px;
+    border: #ccc 1px solid;
+    margin: 10px 0 0;
+}
+
+.info p:first-child {
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	margin-left: -40px;
+}
+
+ul li span {
+	font-weight: bold;
+}
